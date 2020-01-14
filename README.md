@@ -8,7 +8,7 @@
 <img src="./descimage.png" alt="descimage" width="400"/>
 
 3. simple data visualization, presenting data from database by pie chart and bar chart
-<img src="./descimage.png" alt="descimage" width="400"/>
+<img src="./chart.png" alt="chart" width="400"/>
 
 4. post local records to the database
 <img src="./record.png" alt="record" width="400"/>
